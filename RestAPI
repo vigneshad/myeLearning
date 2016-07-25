@@ -1,4 +1,18 @@
 Good Practices of Rest API:
-  1. It should use Web standards where they make sense
-  2. It should be friendly to the developer and be explorable via a browser address bar
-  3. Is should be simple 
+---------------------------
+My Rest Service should
+  1. use Web standards.
+  2. be friendly to the developer and be explorable via a browser address bar.
+  3. be simple, intuitive and consistent to make adoption not only easy but Pleasant.
+  4. provide enough flexibility to power majority of UI.
+  5. be efficient and easily maintainable.
+  
+  Use Restful URL's and Actions:
+  -------------------------------
+  1. The key priciples of REST involve seperating your API into logical 
+  
+  
+  
+
+
+  
