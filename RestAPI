@@ -1,1 +1,4 @@
-
+Good Practices of Rest API:
+  1. It should use Web standards where they make sense
+  2. It should be friendly to the developer and be explorable via a browser address bar
+  3. Is should be simple 
